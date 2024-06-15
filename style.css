@@ -8,3 +8,38 @@ Version: 1.0
 Text Domain: origami
 Tags: origami, site, wordpress
 */
+
+.navbar{
+    padding-top: 15px;
+    padding-bottom:15px;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color:#fff;
+}
+
+.hero h1{
+    font-size: 40px;
+    margin-top: 80px;
+}
+
+.hero h2{
+    font-size: 22px;
+}
+
+.hero img
+{
+    margin-top: 20px;
+    height: auto;
+    
+}
+
+.hero a{
+    background-color: #AF47D2;
+    color:#fff;
+}
+.hero a:hover{
+    background-color: #fff;
+    color: #AF47D2;
+    border: 1px solid  #AF47D2;
+
+}
